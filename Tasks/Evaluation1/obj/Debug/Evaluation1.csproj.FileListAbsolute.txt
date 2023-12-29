@@ -1,0 +1,7 @@
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Evaluation1\obj\Debug\Evaluation1.csprojAssemblyReference.cache
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Evaluation1\obj\Debug\Evaluation1.csproj.CoreCompileInputs.cache
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Evaluation1\bin\Debug\Evaluation1.exe.config
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Evaluation1\bin\Debug\Evaluation1.exe
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Evaluation1\bin\Debug\Evaluation1.pdb
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Evaluation1\obj\Debug\Evaluation1.exe
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Evaluation1\obj\Debug\Evaluation1.pdb

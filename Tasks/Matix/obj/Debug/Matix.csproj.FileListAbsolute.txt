@@ -1,0 +1,7 @@
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Matix\bin\Debug\Matix.exe.config
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Matix\bin\Debug\Matix.exe
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Matix\bin\Debug\Matix.pdb
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Matix\obj\Debug\Matix.csprojAssemblyReference.cache
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Matix\obj\Debug\Matix.csproj.CoreCompileInputs.cache
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Matix\obj\Debug\Matix.exe
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\Matix\obj\Debug\Matix.pdb

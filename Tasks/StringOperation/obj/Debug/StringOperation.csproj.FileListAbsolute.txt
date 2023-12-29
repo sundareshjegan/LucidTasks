@@ -1,0 +1,14 @@
+D:\Sundareshwaran\Projects-Visual Studio\AgeConversion\StringOperation\obj\Debug\StringOperation.csprojAssemblyReference.cache
+D:\Sundareshwaran\Projects-Visual Studio\AgeConversion\StringOperation\obj\Debug\StringOperation.csproj.CoreCompileInputs.cache
+D:\Sundareshwaran\Projects-Visual Studio\AgeConversion\StringOperation\bin\Debug\StringOperation.exe.config
+D:\Sundareshwaran\Projects-Visual Studio\AgeConversion\StringOperation\bin\Debug\StringOperation.exe
+D:\Sundareshwaran\Projects-Visual Studio\AgeConversion\StringOperation\bin\Debug\StringOperation.pdb
+D:\Sundareshwaran\Projects-Visual Studio\AgeConversion\StringOperation\obj\Debug\StringOperation.exe
+D:\Sundareshwaran\Projects-Visual Studio\AgeConversion\StringOperation\obj\Debug\StringOperation.pdb
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\StringOperation\bin\Debug\StringOperation.exe.config
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\StringOperation\bin\Debug\StringOperation.exe
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\StringOperation\bin\Debug\StringOperation.pdb
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\StringOperation\obj\Debug\StringOperation.csprojAssemblyReference.cache
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\StringOperation\obj\Debug\StringOperation.csproj.CoreCompileInputs.cache
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\StringOperation\obj\Debug\StringOperation.exe
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\StringOperation\obj\Debug\StringOperation.pdb

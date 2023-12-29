@@ -1,0 +1,7 @@
+D:\Sundareshwaran\Projects-Visual Studio\Practice\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+D:\Sundareshwaran\Projects-Visual Studio\Practice\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+D:\Sundareshwaran\Projects-Visual Studio\Practice\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+D:\Sundareshwaran\Projects-Visual Studio\Practice\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojAssemblyReference.cache
+D:\Sundareshwaran\Projects-Visual Studio\Practice\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+D:\Sundareshwaran\Projects-Visual Studio\Practice\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+D:\Sundareshwaran\Projects-Visual Studio\Practice\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb

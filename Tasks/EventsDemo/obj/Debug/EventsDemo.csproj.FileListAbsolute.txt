@@ -1,0 +1,7 @@
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\EventsDemo\bin\Debug\EventsDemo.exe.config
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\EventsDemo\bin\Debug\EventsDemo.exe
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\EventsDemo\bin\Debug\EventsDemo.pdb
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\EventsDemo\obj\Debug\EventsDemo.csprojAssemblyReference.cache
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\EventsDemo\obj\Debug\EventsDemo.csproj.CoreCompileInputs.cache
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\EventsDemo\obj\Debug\EventsDemo.exe
+D:\Sundareshwaran\Projects-Visual Studio\Tasks\EventsDemo\obj\Debug\EventsDemo.pdb

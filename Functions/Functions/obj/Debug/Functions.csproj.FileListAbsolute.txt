@@ -1,0 +1,7 @@
+D:\Sundareshwaran\Functions\Functions\bin\Debug\Functions.exe.config
+D:\Sundareshwaran\Functions\Functions\bin\Debug\Functions.exe
+D:\Sundareshwaran\Functions\Functions\bin\Debug\Functions.pdb
+D:\Sundareshwaran\Functions\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+D:\Sundareshwaran\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+D:\Sundareshwaran\Functions\Functions\obj\Debug\Functions.exe
+D:\Sundareshwaran\Functions\Functions\obj\Debug\Functions.pdb

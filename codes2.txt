@@ -1,0 +1,18 @@
+int ageInYears = currentDate.Year - birthDate.Year;
+            int ageInMonths = currentDate.Month - birthDate.Month;
+            int ageInDays = currentDate.Day - birthDate.Day;
+                    
+            if (ageInDays < 0)
+            {
+                ageInMonths--;
+                ageInDays += DateTime.DaysInMonth(currentDate.Year, currentDate.Month);
+            }
+
+            if (ageInMonths < 0)
+            {
+                ageInYears--;
+                ageInMonths += 12;
+            }
+
+            Console.WriteLine($"Your age is {ageInYears} years, {ageInMonths} months and {ageInDays} days.");
+            Console.Read();
